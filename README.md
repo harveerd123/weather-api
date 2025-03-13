@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web application built to get familiar with creating websites using React. It consists of a few different pages accessible via a navbar. The weather page is the main one, where you are able to find out different weather conditions in different cities. The information is pulled in by hitting an API with a city name, the API then sends back the required information which we display with a friendly UI. 
 
 ## Available Scripts
 
